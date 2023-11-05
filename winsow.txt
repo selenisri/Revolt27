@@ -1,6 +1,5 @@
 new text adding new 
 dsdd sasas 
 directly isome
-<<<<<<< HEAD
 iam doing this in local changes.
 hello
