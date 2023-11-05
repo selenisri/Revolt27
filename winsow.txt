@@ -4,7 +4,3 @@ directly isome
 <<<<<<< HEAD
 iam doing this in local changes.
 hello
-=======
-iam doing this in git hub ui
-hello
->>>>>>> c7a24e4e553e47b859c852e49ca22682b376aaf7
