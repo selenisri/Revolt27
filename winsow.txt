@@ -4,7 +4,11 @@ directly isome
 iam doing this in local changes.
 hello
 
+<<<<<<< HEAD
 jjnjjjiiii
 
 vanniyan
 
+=======
+jjnjjjiiii
+>>>>>>> parent of 012a741 (Update winsow.txt)
